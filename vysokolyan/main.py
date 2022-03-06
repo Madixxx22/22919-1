@@ -4,3 +4,5 @@ class PrintHello():
 
 hl = PrintHello()
 hl.print_hello()
+
+print("useless_commit")
