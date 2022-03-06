@@ -1,4 +1,6 @@
-def print_hello():
-    print("Hello_world")
+class PrintHello():
+    def print_hello(self):
+        print ("Hello_world")
 
-print_hello()
+hl = PrintHello()
+hl.print_hello()
